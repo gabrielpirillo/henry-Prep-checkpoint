@@ -1,0 +1,92 @@
+#div-negro {
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    border-top: 10px solid black;
+    border-bottom: 30px solid black;
+    border-left: 1px solid black;
+    border-right: 20px solid black;
+}
+#uno {
+    width: 1000px;
+    height: 50px;
+    background: #fff;
+    padding: 10px;
+    border: 5px solid pink;
+    margin: 20px;
+    display: flex;
+}
+#uno-contact {
+    color: #fff;
+    margin: 5px;
+    background: pink;
+    text-align: center;
+    }
+    #uno-careers {
+        color: #fff;
+        margin: 5px;
+        background: blue;
+        text-align: center;
+        }
+        #uno-about {
+            color: #fff;
+            margin: 5px;
+            background: green;
+            text-align: center;
+            }   
+#dos {
+width: 1000px;
+height: 70px;
+background: #fff;
+padding: 10px;
+border: 5px solid orangered;
+margin: 20px;
+}
+
+#dos-contact {
+color: #fff;
+margin: 5px;
+background: pink;
+text-align: center;
+}
+#dos-careers {
+    color: #fff;
+    margin: 5px;
+    background: blue;
+    text-align: center;
+    }
+    #dos-about {
+        color: #fff;
+        margin: 5px;
+        background: green;
+        text-align: center;
+        }   
+
+        #tres {
+            width: 1000px;
+            height: 50px;
+            background: #fff;
+            padding: 10px;
+            border: 5px solid orangered;
+            margin: 20px;
+            display: flex;
+        }
+            
+            #tres-contact {
+            color: #fff;
+            margin: 5px;
+            background: pink;
+            text-align: center;
+            }
+            #tres-careers {
+                color: #fff;
+                margin: 5px;
+                background: blue;
+                text-align: center;
+                }
+                #tres-about {
+                    color: #fff;
+                    margin: 5px;
+                    background: green;
+                    text-align: center;
+                    }       

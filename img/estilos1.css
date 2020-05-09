@@ -1,0 +1,15 @@
+div {
+    width: 500px;
+    background-color: yellow;
+}
+li {
+    font-size: 25px;
+    color: red;
+}
+a:hover{
+    color: green;
+}
+img {
+    width: 350px;
+    height: 350px;
+}

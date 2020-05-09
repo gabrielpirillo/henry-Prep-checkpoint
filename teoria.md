@@ -1,24 +1,26 @@
 ## Explica los siguentes conceptos con tus propias palabras. (no más de tres líneas por respuesta).
 
-* HTML:
+* HTML: Es el esqueleto de una pagina web.
 
-* CSS:
+* CSS: Son estilos que pueden aplicarse al conjunto de HTML para una mejor 
+experiencia de usuario.
 
-* Git:
+* Git: Es un software para controlar las versiones y tener un mejor mantenimiento.
 
-* Arreglos:
+* Arreglos: Son una colección de elementos.
 
-* Objetos:
+* Objetos: Una coleccion propiedades.
 
-* Variables:
+* Variables: Son valores que podemos volver a utilizar.
 
-* Métodos:
+* Métodos: Son funciones asociadas a objetos.
 
-* DOM:
+* DOM: Es una interfaz de programación.
 
-* Atributo de un tag HTML:
+* Atributo de un tag HTML: Son valores adicionales a los elementos en HTML para cumplir
+cierta necesidad.
 
-* Selector CSS:
+* Selector CSS: Son los que definen a que elementos aplicar una regla css.
 
-* Un función constructora:
+* Un función constructora: Son funciones capaces de construir un nuevo objeto.
 
